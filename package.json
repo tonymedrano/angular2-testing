@@ -1,0 +1,44 @@
+{
+  "name": "angular2-tesing-seed",
+  "version": "2.0.0-beta.21",
+  "description": "Seed for Testing Angular 2",
+  "author": "Tony Medrano <info@tonymedrano.com>",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tonymedrano/angular2-testing.git"
+  },
+  "scripts": {
+    "start": "live-server",
+    "test": "karma start"
+  },
+  "dependencies": {
+    "@angular/common": "~2.1.0",
+    "@angular/compiler": "~2.1.0",
+    "@angular/core": "~2.1.0",
+    "@angular/forms": "~2.1.0",
+    "@angular/http": "~2.1.0",
+    "@angular/platform-browser": "~2.1.0",
+    "@angular/platform-browser-dynamic": "~2.1.0",
+    "@angular/router": "~3.0.1",
+    "@angular/upgrade": "~2.1.0"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.0.5",
+    "es6-shim": "^0.35.3",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-mocha-reporter": "^2.2.2",
+    "karma-phantomjs2-launcher": "^0.5.0",
+    "live-server": "^1.2.0",
+    "phantomjs2": "^2.2.0",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.2.0",
+    "systemjs": "^0.19.31",
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.2.1",
+    "zone.js": "^0.7.7"
+  }
+}
