@@ -1,4 +1,4 @@
-# angular2-testing (seed)
+# angular2-testing (Typescript files without Angular-cli)
 Seed for Testing Angular 2
 
 npm i ---> for dependencies
