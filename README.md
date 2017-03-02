@@ -1,4 +1,4 @@
-# angular2-testing
+# angular2-testing (seed)
 Seed for Testing Angular 2
 
 npm i ---> for dependencies
